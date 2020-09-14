@@ -1,0 +1,950 @@
+fileFormatVersion: 2
+guid: 093d9c979b6057148adac103e788a068
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EarL
+    21300002: EarR
+    21300004: EyebrowL
+    21300006: EyebrowR
+    21300008: ArmL1
+    21300010: ArmL2
+    21300012: ArmL3
+    21300014: ArmR1
+    21300016: ArmR2
+    21300018: Torso
+    21300020: LegL1
+    21300022: LegL2
+    21300024: LegL3
+    21300026: LegR3
+    21300028: LegR2
+    21300030: LegR1
+    21300032: Head
+    21300034: Crest1
+    21300036: Crest2
+    21300038: BlueBox
+    21300040: OrangeBox
+    21300042: OrangeDumpster
+    21300044: BlueDumpster
+    21300046: DumpsterCone
+    21300048: DumpsterTV
+    21300050: BlueDumpsterLid
+    21300052: OrangeDumpsterLid
+    21300054: BlockPickingBg
+    21300056: ScoreCat
+    21300058: ScoreStick
+    21300060: ScoreRope
+    21300062: ScoreTable
+    21300064: ScoreClouds
+    21300066: BlockPickingFloor
+    21300068: PatfindingTV
+    21300070: PatfindingCheese
+    21300072: PatfindingMouse
+    21300074: PathfindingPawnRight
+    21300076: PathfindingPawnLeft
+    21300078: PathfindingGamepad
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EarL
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1964
+        width: 86
+        height: 73
+      alignment: 9
+      pivot: {x: 0.8324969, y: 0.90737873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fa36cc58516434b8559abbbb85cef8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarR
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1981
+        width: 75
+        height: 57
+      alignment: 9
+      pivot: {x: 0.1543218, y: 0.8478212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7647a1dde4e0d41822f59acef36d5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyebrowL
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1925
+        width: 50
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5838774, y: 0.48770633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf6a3d6b47d38149847eafe27b85a8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyebrowR
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1932
+        width: 43
+        height: 24
+      alignment: 9
+      pivot: {x: 0.50886714, y: 0.4046885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2ea700bccdc924caa64c0a9bb72979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmL1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1847
+        width: 95
+        height: 74
+      alignment: 9
+      pivot: {x: 0.9454757, y: 0.4845482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e86d4419542f2b43948423854318f94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmL2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1826
+        width: 69
+        height: 98
+      alignment: 9
+      pivot: {x: 0.91441613, y: 0.74120843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e20f48d16347e438ec0135b92dd0af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmL3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1700
+        width: 145
+        height: 123
+      alignment: 9
+      pivot: {x: 0.047743496, y: 0.6983811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb6337dda0f82c4198d8eda84599513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmR1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1670
+        width: 79
+        height: 86
+      alignment: 9
+      pivot: {x: 0.08477513, y: 0.66808796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0b238f7be15eb4b93ce9dd96423b9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmR2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1531
+        width: 92
+        height: 131
+      alignment: 9
+      pivot: {x: 0.06488601, y: 0.62732494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9c31208e0502145b4bb4fd8f26d716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1504
+        width: 164
+        height: 189
+      alignment: 9
+      pivot: {x: 0.6254345, y: 0.17053159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5250825a3f847ab45a075e2cf511d88f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegL1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1455
+        width: 42
+        height: 46
+      alignment: 9
+      pivot: {x: 0.22622031, y: 0.8635944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf83a693759000a48a4f4d7e482a51dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegL2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1425
+        width: 31
+        height: 29
+      alignment: 9
+      pivot: {x: 0.8540674, y: 0.75231934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56ad36d1e614334aa525847ab982295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegL3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1386
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42351145, y: 0.7692538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e3124f279d22a4fb0303573989893c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegR3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1389
+        width: 39
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4061874, y: 0.86586505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257bc3f28d4e2f2459936f4472de2f79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegR2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1421
+        width: 35
+        height: 29
+      alignment: 9
+      pivot: {x: 0.84347034, y: 0.80639225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac032e9654254c04f967fa6261e04e9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegR1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1452
+        width: 48
+        height: 49
+      alignment: 9
+      pivot: {x: 0.27133194, y: 0.8626684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4639f4d70910c1c41919c2697b50c919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1758
+        width: 226
+        height: 290
+      alignment: 9
+      pivot: {x: 0.60578376, y: 0.16641256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c328cbd4f35b6374ebccd518d21712fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crest1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1645
+        width: 65
+        height: 105
+      alignment: 9
+      pivot: {x: 0.47763437, y: 0.12617652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b58c1a9818d894481d77d95fb5ac1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crest2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1619
+        width: 75
+        height: 92
+      alignment: 9
+      pivot: {x: 0.9652055, y: 0.4315265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a24e3ee603a5a49becbf8e3cba3d38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBox
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1890
+        width: 180
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f63b4568cdd553498e912a9eabe1289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBox
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1890
+        width: 180
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed43bfce48b8eb44a66c98a5d4a8f40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeDumpster
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1527
+        width: 284
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b09995eb54e0f548bc40935da152dae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueDumpster
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1396
+        width: 284
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279d827419b26da48be38bbeb6192ef0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DumpsterCone
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1611
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2369860d067254b4cbb14c9e8f0026aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DumpsterTV
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1394
+        width: 192
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956c5addf7118de4f957aa36fe091f68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueDumpsterLid
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1830
+        width: 182
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44af79012015df4b95a26420ce2951c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeDumpsterLid
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1400
+        width: 182
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99e8c3e5625e0e4eb89fe3d4d32ce1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockPickingBg
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 305
+        width: 960
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c24146431d3a44eb223a3311c969f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreCat
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1708
+        width: 273
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc16eb21ac622a349821b6d9f090d4c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreStick
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1533
+        width: 334
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e271cea79d6cb1846877222939fbc155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreRope
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1443
+        width: 205
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc1006536fe46240994a017f0c85472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreTable
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1808
+        width: 301
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122593cc8987a224eb4301528a0a20c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreClouds
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1872
+        width: 323
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a663d7cad2063e942af6c345f3fcd18c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockPickingFloor
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1461
+        width: 189
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3844e03bf8b1dc0439f0302279711f04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PatfindingTV
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 356
+        width: 656
+        height: 1037
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 223, y: 137, z: 425, w: 111}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714abafc2b72e7149a31c5467ffb9f9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PatfindingCheese
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1760
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd67ca9c98c1caa438d02f4db1601d5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PatfindingMouse
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1798
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0191510aa31f7794db264d530de31b00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PathfindingPawnRight
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1433
+        width: 278
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6140e05db8ea77244adf76193c62feb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PathfindingPawnLeft
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 814
+        width: 355
+        height: 617
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dca10c95e312c149acffc1b985cbd19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PathfindingGamepad
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 215
+        width: 413
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f39e4d144b5a054f8ddb36c58f8144b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 40b1d9142696b104583b1f3a080f93b5
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
